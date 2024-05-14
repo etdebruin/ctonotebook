@@ -11,11 +11,28 @@
             "id": "972a84552e9eee72",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Welcome to Daily Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c1950ee5b6e6370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Notes/Welcome to Main Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Main Notes/Welcome to Main Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Main Notes/Welcome to Main Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Main Notes/Welcome to Main Notes.md"
+              }
             }
           }
         ]
@@ -140,6 +161,8 @@
   },
   "active": "3358925cf8956fe0",
   "lastOpenFiles": [
+    "Daily Notes/Welcome to Daily Notes.md",
+    "Main Notes/Welcome to Main Notes.md",
     "Main Notes",
     "Daily Notes"
   ]
