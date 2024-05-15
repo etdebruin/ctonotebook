@@ -14,7 +14,7 @@ With the kflow method, you'll move from the outside of the circle, to the center
 
 ## CTO Levels™ Integrated
 
-CTO Levels™ is fully integrated with kflow. When you are struggling to find your feet, or don't know where to start, simply follow the CTO Levels™ methodology.
+CTO Levels™ is fully integrated with kflow. When you are struggling to find your feet, or don't know where to start, simply follow the CTO Levels™ methodology. Go check out (CTO Levels™)[ctolevels.com] for more information on this framework. 
 
 ## Zettelkasten Methodology
 
@@ -44,6 +44,36 @@ Currently we support Obsidian as your writing tool. We *love* Obsidian.
 ## Other tools
 
 Stay tuned for other tools with which you can deploy kflow.
+
+# How to use
+
+kflow is a writing tool. You'll be doing a lot of thinking and writing.
+
+Every day. Start here.
+
+## 1. Daily Notes
+
+In this folder you will write down anything that comes to your mind. You won't worry about well formulated thoughts. You'll simply open a note with your favorite editor and you'll start writing.
+
+Very important to remember this as you write a note:
+
+1. keep your notes short.
+2. these notes will most likely be thrown out once you've processed them.
+3. think, GTD. just get these thoughts out of your head.
+
+Examples of what you'll write:
+
+1. I want to make sure that I meet with the dev team about the upcoming ERD meeting.
+2. There is an interesting concept I read about regarding overall developer happiness.
+3. Had a meeting with our CEO and she seemed super edgy about getting a big feature out next month. Compose some thoughts about the points she made.
+
+Off the bat this may seem like a glorified todo list. But it's not. It's just the beginning of your composing large and beautifully thoughtful masterpieces.
+
+_You will make sure that this folder doesn't grow too cluttered. Ideally you are processing these tiny notes once a day, or a few times a week_
+
+## 2. Main Notes
+
+
 
 # References
 
