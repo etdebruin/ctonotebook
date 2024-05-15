@@ -10,6 +10,24 @@ This is about building something for yourself. And then to watch yourself build 
 
 With the kflow method, you'll move from the outside of the circle, to the center.
 
+# Features
+
+## CTO Levels™ Integrated
+
+CTO Levels™ is fully integrated with kflow. When you are struggling to find your feet, or don't know where to start, simply follow the CTO Levels™ methodology.
+
+## Zettelkasten Methodology
+
+We are firm believers in the Zettelkasten method for note taking. We'll write more about it later but for now go Google it.
+
+## Your Second Brain
+
+Never lose track of what you've learned or gained from working as the CTO of company. This is your personal note taking methodology that will never leave you behind ever again. Nurture and grow your expertise in a way that you'll never lose again.
+
+## Isolated Contexts
+
+This may not be seen as feature just yet, but each CTO engagement has it's own context. We believe this is vital in not only delivering world class work to your company, but keep that work in service to you as you move on to other engagements.
+
 # Getting Started
 
 The kflow system is a folder structure. You will start off by copying the folder structure to your filesystem. Once there you will start following the conventions to be the best damn CTO your company needs you to be.
