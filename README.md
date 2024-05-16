@@ -1,20 +1,20 @@
-# kflow
+# CTO Notebook
 
 A system for helping the CTO get a LOT done.
 
-The premise on which kflow was built is that in order to be a great CTO, the CTO must be a writer. A builder, not of technology, but of knowledge. An employee, not of the CEO, but of themselves. Perhaps not even of themselves, but of their knowledge. A servant, not of the system, but of their greater selves.
+The premise on which CTO Notebook was built is that in order to be a great CTO, the CTO must be a writer. A builder, not of technology, but of knowledge. An employee, not of the CEO, but of themselves. Perhaps not even of themselves, but of their knowledge. A servant, not of the system, but of their greater selves.
 
 There is the irony of being a great employee by working yourself to death, to please an objective which could be wrapped inside a doomed culture, or an erratic founder. What will you have left when you have spent hours and days and years in this environment? Perhaps you'll wish you had some equity or even a small pay out would satisfy. But this is not about that.
 
 This is about building something for yourself. And then to watch yourself build up others. And then to see others build you up and ultimately see a legacy of impact, love and care. A life that was worth living.
 
-With the kflow method, you'll move from the outside of the circle, to the center.
+With the CTO Notebook method, you'll move from the outside of the circle, to the center.
 
 # Features
 
 ## CTO Levels™ Integrated
 
-CTO Levels™ is fully integrated with kflow. When you are struggling to find your feet, or don't know where to start, simply follow the CTO Levels™ methodology. Go check out (CTO Levels™)[ctolevels.com] for more information on this framework. 
+CTO Levels™ is fully integrated with CTO Notebook. When you are struggling to find your feet, or don't know where to start, simply follow the CTO Levels™ methodology. Go check out (CTO Levels™)[ctolevels.com] for more information on this framework. 
 
 ## Zettelkasten Methodology
 
@@ -30,7 +30,7 @@ This may not be seen as feature just yet, but each CTO engagement has it's own c
 
 # Getting Started
 
-The kflow system is a folder structure. You will start off by copying the folder structure to your filesystem. Once there you will start following the conventions to be the best damn CTO your company needs you to be.
+The CTO Notebook system is a folder structure. You will start off by copying the folder structure to your filesystem. Once there you will start following the conventions to be the best damn CTO your company needs you to be.
 
 ## Obsidian
 
@@ -43,11 +43,11 @@ Currently we support Obsidian as your writing tool. We *love* Obsidian.
 
 ## Other tools
 
-Stay tuned for other tools with which you can deploy kflow.
+Stay tuned for other tools with which you can deploy CTO Notebook.
 
 # How to use
 
-kflow is a writing tool. You'll be doing a lot of thinking and writing.
+CTO Notebook is a writing tool. You'll be doing a lot of thinking and writing.
 
 Every day. Start here.
 
